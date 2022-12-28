@@ -33,8 +33,11 @@ function App() {
     ]
   
   return (
-    
+    <>
+      <h1>Dummy</h1>
       <Directory categories={categories}/>
+    </>
+    
 
   );
 }
